@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: my-app
-          image: devopstrainingschool/knote-eagle1:20
+          image: devopstrainingschool/knote-eagle1:21
           ports:
             - containerPort: 8080
           env:
